@@ -14,27 +14,27 @@ There are several ways to filter the table for UFO sightings.
 ### Filtering by Date
 The user enters the desired date, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
 
-![Date](/images/Date.png)
+![Date](static\images\Date.png)
 
 ### Filtering by City
 The user enters the desired city, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
 
-![City](/images/City.png)
+![City](static\images\City.png)
 
 ### Filtering by Country
 The user enters the desired country, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
 
-![Country](/images/Country.png)
+![Country](static\images\Country.png)
 
 ### Filtering by State
 The user enters the desired shape, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
 
-![State](/images/State.png)
+![State](static\images\State.png)
 
 ### Filtering by Shape
 The user enters the desired shape, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
 
-![Shape](/images/Shape.png)
+![Shape](static\images\Shape.png)
 
 ### Clearing Filter
 The user can erase the filter they prvously entered and press enter to remove the filter. User can also refresh the page in order to remove the filter. 
