@@ -14,7 +14,7 @@ There are several ways to filter the table for UFO sightings.
 ### Filtering by Date
 The user enters the desired date, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
 
-![Date](static\images\Date.png)
+![Date](static/images/Date.png)
 
 ### Filtering by City
 The user enters the desired city, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
