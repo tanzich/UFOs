@@ -1,7 +1,7 @@
 # UFOs
 
 # Overview of Project
-This project was to create a website about UFO sightings. this website has a table that includes all UFO sightings information and clients have the ability to fiter the table based on multiple criteria such as the event date, city, state, country and shape.
+This project was to create a website about UFO sightings. This website has a table that includes all UFO sightings information and clients have the ability to fiter the table based on multiple criteria such as the event date, city, state, country and shape.
 
 # Results
 
@@ -37,16 +37,16 @@ The user enters the desired shape, the change is detected and the table is updat
 ![Shape](static/images/Shape.png)
 
 ### Clearing Filter
-The user can erase the filter they prvously entered and press enter to remove the filter. User can also refresh the page in order to remove the filter. 
+The user can erase the filter they prevously entered and press enter to remove the filter. User can also refresh the page in order to remove the filter. 
 
 # Summary
 
 ## Drawback of the new design
-- Currently the table only holds information about UFO sightings in US. Once we have more data from other countries the table will be much larger. I would be nice to have a better method for filtering. As of now, in order to know what to filter by user has to scroll in the table to know the filter value. For example user will have to scroll the table to know OR is anoption to filter by in the state.
+- Currently the table only holds information about UFO sightings in US. Once we have more data from other countries the table will be much larger. It would be nice to have a better method for filtering then. As of now, in order to know what to filter by user has to scroll in the table to know the filter value. For example user will have to scroll the table to know 'OR' is an option to filter by in the state.
 
 ## Recommendation for improvement
-- To fix this filter issue, we can add a drop down to each filter input that the user can click to find all option for that given filter.
+- To fix this filter issue, we can add a drop down to each filter input that the user can click to find all options for that given filter.
 
-- Another recommendation would be to make the table headers static so that where the user scrolls they can always see the table head names. 
+- Another recommendation would be to make the table headers static so that, when ever the user scrolls they can always see the table head names. 
 
 
