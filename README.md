@@ -24,7 +24,7 @@ The user enters the desired city, the change is detected and the table is update
 ### Filtering by Country
 The user enters the desired country, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
 
-![Country](static/imagesCountry.png)  
+![Country](static\images\Country.png)  
 
 ### Filtering by State
 The user enters the desired shape, the change is detected and the table is updated accordingly as soon as the user presses the enter key.
